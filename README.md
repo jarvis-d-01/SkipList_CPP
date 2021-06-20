@@ -1,5 +1,5 @@
 # SkipList_CPP
----
+
 Forked from https://github.com/youngyangyang04/Skiplist-CPP
 
 2021/6/20 Update:
@@ -20,8 +20,6 @@ Forked from https://github.com/youngyangyang04/Skiplist-CPP
   get_prev_element
 
 
-
----
 ## Interface
 * insertElement
 * deleteElement
